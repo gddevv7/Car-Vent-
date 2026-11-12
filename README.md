@@ -17,6 +17,7 @@ A custom 3D-printed airflow deflector designed for a **2017 Toyota RAV4**. Model
 ## Repository Contents
 * `/models` — Ready-to-print `.stl` mesh file. Use the latest V3
 * `/images` — Reference photos of the dashboard mounting location, 3D model, and installed part.
+* The 'V3.stl' file has a flat piece in the back for mounting, it can be glued or screwed down for securing. If you don't want it use the 'V2'
 
 ## Lessons Learned * Future Iterations 
 * Originally I printed it out of PLA with thin walls and the piece melted because that's all I had, alongside TPU. I then switched to TPU 95A which held up much better and I increased the thickness of the walls as well.
