@@ -8,7 +8,6 @@ A custom 3D-printed airflow deflector designed for a **2017 Toyota RAV4**. Model
 * **The Problem:** The factory windshield defroster stopped directing air properly, leaving the windshield prone to fogging and condensation during cold or rainy weather.
 * **The Solution:** Instead of tearing apart the dashboard for a costly HVAC blend-door repair, I measured the upper center dashboard vent opening and modeled a custom drop-in air scoop in **Blender**. The deflector captures airflow from the center dash outlet and channels it directly onto the windshield.
 
-  [!TIP]
 > Use a heat tolerant material/filament such as PETG, ABS, or PC! PLA and standard TPU will get soft! If you must use PLA or TPU increase the thickness.
 
 ## Key Features
@@ -16,7 +15,7 @@ A custom 3D-printed airflow deflector designed for a **2017 Toyota RAV4**. Model
 * **Directed Airflow:** Angled internal geometry guides air upward across the glass to clear fog efficiently.
 
 ## Repository Contents
-* `/stl` — Ready-to-print `.stl` mesh file.
+* `/models` — Ready-to-print `.stl` mesh file. Use the latest V3
 * `/images` — Reference photos of the dashboard mounting location, 3D model, and installed part.
 
 ## Lessons Learned * Future Iterations 
